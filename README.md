@@ -147,5 +147,5 @@ course-api
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
     </a>
   </p>
-  <p>GitHub: <a href="https://github.com/pendyalavardhan">github.com/VedantKashid</a></p>
+  <p>GitHub: <a href="https://github.com/pendyalavardhan">github.com/pendyalavardhan</a></p>
 </div>
