@@ -141,11 +141,11 @@ course-api
 ## 👨‍💻 Author
 
 <div align="center">
-  <h3><b>Vedant Kashid</b></h3>
+  <h3><b>Megha Vardhan</b></h3>
   <p>
-    <a href="https://github.com/VedantKashid">
+    <a href="https://github.com/pendyalavardhan">
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
     </a>
   </p>
-  <p>GitHub: <a href="https://github.com/VedantKashid">github.com/VedantKashid</a></p>
+  <p>GitHub: <a href="https://github.com/pendyalavardhan">github.com/VedantKashid</a></p>
 </div>
